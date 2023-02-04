@@ -7,6 +7,8 @@ int main ()
 
     user_cout_function(user_multiply_function(7,8));
     user_cout_function(user_multiply_function(7.3, 8.4));
+    
+    int a = 0;
 }
 
 void user_cout_function (int arg)
