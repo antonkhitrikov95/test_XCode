@@ -1,12 +1,7 @@
-//
-//  user_function.h
-//  test_XCode
-//
-//  Created by Anton Khitrikov on 2/4/23.
-//
+#include <iostream>
 
-#ifndef user_function_h
-#define user_function_h
+int user_sum_fuction (int, int);
+double user_sum_fuction (double, double);
 
-
-#endif /* user_function_h */
+int user_multiply_function (int, int);
+double user_multiply_function (double, double);

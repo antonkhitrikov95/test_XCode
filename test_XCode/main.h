@@ -1,12 +1,5 @@
-//
-//  main.h
-//  test_XCode
-//
-//  Created by Anton Khitrikov on 2/4/23.
-//
+#include "user_function.h"
+#include <iostream>
 
-#ifndef main_h
-#define main_h
-
-
-#endif /* main_h */
+void user_cout_function (int);
+void user_cout_function (double);
